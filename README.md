@@ -13,14 +13,12 @@ This repository serves as the **starting point** for the ITP 225 Web Scripting c
 
 ### 2. Open the Project
 
-- Navigate to the `Chapter 2` folder
 - Open `index.html` in your web browser to see the current state
 - Open the HTML files in your preferred code editor (VS Code, Sublime Text, etc.)
 
 ## Project Structure
 
 ```
-Chapter 2/
 ├── index.html          # Main home page with student information
 ├── products.html       # Products page
 ├── search.html         # Search page
