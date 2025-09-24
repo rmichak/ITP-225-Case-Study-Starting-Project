@@ -16,6 +16,34 @@ This repository serves as the **starting point** for the ITP 225 Web Scripting c
 - Open `index.html` in your web browser to see the current state
 - Open the HTML files in your preferred code editor (VS Code, Sublime Text, etc.)
 
+### 3. Recommended Development Setup (Visual Studio Code + Live Server)
+
+**We strongly recommend using Visual Studio Code with the Live Server extension for the best development experience.**
+
+#### Installing Visual Studio Code:
+
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/) (free)
+2. Open VS Code and install the **Live Server** extension:
+   - Press `Ctrl+Shift+X` (or `Cmd+Shift+X` on Mac) to open Extensions
+   - Search for "Live Server" by Ritwick Dey
+   - Click "Install"
+
+#### Using Live Server:
+
+1. Open your project folder in VS Code:
+   - File → Open Folder → Select your project directory
+2. Right-click on `index.html` in the file explorer
+3. Select "Open with Live Server"
+4. Your website will open in your default browser with live reloading
+5. Any changes you make to HTML, CSS, or JavaScript will automatically refresh the browser
+
+#### Benefits of Live Server:
+
+- **Automatic refresh**: See changes instantly without manual browser refresh
+- **Real-time development**: Edit code and see results immediately
+- **Better debugging**: Easier to test and troubleshoot your code
+- **Professional workflow**: Industry-standard development setup
+
 ## Project Structure
 
 ```
@@ -91,6 +119,8 @@ This repository serves as the **starting point** for the ITP 225 Web Scripting c
 - Check the assignment instructions carefully
 - Ask your instructor if you have questions about requirements
 - Test your code frequently to catch errors early
+- **Use VS Code with Live Server** for the best development experience
+- Take advantage of VS Code's built-in HTML, CSS, and JavaScript IntelliSense
 
 ## Submission Guidelines
 
